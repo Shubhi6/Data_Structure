@@ -1,0 +1,4 @@
+#0:are:1:f1.txt:1#
+#7:hii:2:f1.txt:2f2.txt:1#
+#7:hello:2:f1.txt:1f2.txt:1#
+#7:how:1:f1.txt:1#
